@@ -24,7 +24,7 @@ pip install streamlit requests
 
 ### **3️⃣ Run the App**  
 ```sh
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## 📌 **How It Works**  
